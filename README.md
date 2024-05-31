@@ -27,6 +27,7 @@ Our project focuses on creating a smart table tennis racket using IoT and Machin
     ![Connection Diagram](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/b4085da6-d1dc-48ac-93f3-b2dd71184c0b=250x)
 2. Upload the .ino file to the Esp32c3. (For Data read upload Data_Read.ino and to send the data to Firebase use Cloud.ino file)
 3. Make the .csv file of the data read and train the ML Model (We have used 5 models: KNN, SVM, Decision Tree, Neo Base, and Random Forest. Then we use Random Forest)
+![image](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/e4938115-9e46-4b3c-92bd-e1532d8a663a)
 4. Using the Pickle Library in Python, save your ML model.
 5. Using Flask, integrate the ML model with the webpage.
 
@@ -35,4 +36,8 @@ Webpage Output
 ![Frontend2](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/e4ebdd45-80ec-40b7-8e1e-d7c2d82184b2)
 ![Frontend3](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/2d07c254-6bac-4c72-996f-e61c9867c3ff)
 ![Frontend4](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/0a41ec78-75e4-4aae-90e1-fdb953312416)
+
+Final Prototype of Smart Table Tennis Racket:
+![Smart_racket](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/19457eee-9641-469d-b9ce-bb4542e0502d)
+
 
