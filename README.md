@@ -24,12 +24,16 @@ Our project focuses on creating a smart table tennis racket using IoT and Machin
 ## Steps
 
 1. Connect the Microcontroller Esp32c3 with MPU6050.
-    ![Circuit_diagram](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/9be545e5-6812-456d-b38b-810b5534dcb5)
-2. Upload the .ino file to the Esp32c3. (For Data read upload Data_Read.ino and to send the data to Firebase use Cloud.ino file)
-3. Make the .csv file of the data read and train the ML Model (We have used 5 models: KNN, SVM, Decision Tree, Neo Base, and Random Forest. Then we use Random Forest)
-    ![dataset](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/7c4d2f76-2ad8-4990-8fab-a24741af5714)
-4. Using the Pickle Library in Python, save your ML model.
-5. Using Flask, integrate the ML model with the webpage.
+
+   ![Circuit_diagram](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/9be545e5-6812-456d-b38b-810b5534dcb5)
+   
+3. Upload the .ino file to the Esp32c3. (For Data read upload Data_Read.ino and to send the data to Firebase use Cloud.ino file)
+4. Make the .csv file of the data read and train the ML Model (We have used 5 models: KNN, SVM, Decision Tree, Neo Base, and Random Forest. Then we use Random Forest)
+
+   ![dataset](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/7c4d2f76-2ad8-4990-8fab-a24741af5714)
+   
+6. Using the Pickle Library in Python, save your ML model.
+7. Using Flask, integrate the ML model with the webpage.
 
 Webpage Output
 ![Frontend1](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/68b85746-28fc-40b1-b6e9-435b12f324af)
@@ -38,6 +42,7 @@ Webpage Output
 ![Frontend4](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/0a41ec78-75e4-4aae-90e1-fdb953312416)
 
 Final Prototype of Smart Table Tennis Racket:
-![Smart_racket_1](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/0934802b-9482-40b0-beb6-cee0b7f5c46f)
+  
+  ![Smart_racket_1](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/0934802b-9482-40b0-beb6-cee0b7f5c46f)
 
 
