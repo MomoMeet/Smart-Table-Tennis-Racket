@@ -35,13 +35,15 @@ Our project focuses on creating a smart table tennis racket using IoT and Machin
 6. Using the Pickle Library in Python, save your ML model.
 7. Using Flask, integrate the ML model with the webpage.
 
-Webpage Output
+**Webpage Output**
+
 ![Frontend1](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/68b85746-28fc-40b1-b6e9-435b12f324af)
 ![Frontend2](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/e4ebdd45-80ec-40b7-8e1e-d7c2d82184b2)
 ![Frontend3](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/2d07c254-6bac-4c72-996f-e61c9867c3ff)
 ![Frontend4](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/161807876/0a41ec78-75e4-4aae-90e1-fdb953312416)
 
-Final Prototype of Smart Table Tennis Racket:
+
+## Final Prototype of Smart Table Tennis Racket:
   
   ![Smart_racket_1](https://github.com/MomoMeet/Smart-Table-Tennis-Racket/assets/146100584/0934802b-9482-40b0-beb6-cee0b7f5c46f)
 
