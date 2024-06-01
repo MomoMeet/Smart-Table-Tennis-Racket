@@ -19,8 +19,6 @@ FirebaseConfig config;
 
 unsigned long sendDataPreMills = 0;
 bool signupok = false;
-/*const char ssid = "Meet";
-const char pass = "Meet@Neeta403";*/
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
