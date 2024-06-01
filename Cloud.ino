@@ -6,8 +6,8 @@
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 
-#define WIFI_SSID "Meet"
-#define WIFI_PASSWORD "Meet@Neeta403"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 #define API_KEY ""
 #define DATABASE_URL ""
 
